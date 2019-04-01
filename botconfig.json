@@ -1,5 +1,5 @@
 {
-    "token" : "process.token.env",
+    "token" : "your-token-here",
     "prefix" : "?"
 }
 
